@@ -15,5 +15,5 @@ MonoBehaviour:
   _name: Smallfire
   _price: 15
   _sprite: {fileID: 21300000, guid: b38fab29e142fd747b57ab606dee1e4d, type: 3}
-  _type: 10
+  _type: 5
   _perk: 

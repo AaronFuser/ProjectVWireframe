@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Shop1_Nadelaunch
   m_EditorClassIdentifier: 
   _name: Grenades
-  _price: 30
+  _price: 40
   _sprite: {fileID: 21300000, guid: d3f0656f7dd68534fa7fb07083db2c5b, type: 3}
-  _type: 60
+  _type: 65
   _perk: 

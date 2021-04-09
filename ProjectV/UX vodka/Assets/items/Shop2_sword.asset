@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Shop2_sword
   m_EditorClassIdentifier: 
   _name: Slashy washy
-  _price: 25
+  _price: 35
   _sprite: {fileID: 21300000, guid: 92b05d409d19bdf44b1af6a0bb018dd2, type: 3}
   _type: 50
   _perk: 
